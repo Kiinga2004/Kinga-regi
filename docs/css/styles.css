@@ -1,0 +1,48 @@
+/*-------------------------------------------TAG SELECTOR--------------------------------------------*/
+body {
+    background-color:#ad9d9d;
+}
+hr {
+    border-style: none;              
+    border-top-style: dotted;
+    border-color:#838383;
+    border-width: 8;
+    height: 0px;
+    width: 10%;
+
+}
+
+h1 {
+    color:#838383;
+    text-shadow:2px 2px 5px #fccbcb ;
+    font-family:"Serif", "Georgia";
+}
+h2 {
+    color: #838383;
+    text-shadow:2px 2px 5px #fccbcb ;
+    font-family:"Serif", "Georgia";
+}
+
+h3 {
+    color: #838383;
+    text-shadow:2px 2px 5px #fccbcb ;
+    font-family:"Serif", "Georgia";
+}
+a:hover {
+    background-color: rgb(177, 142, 142);
+}
+/*-------------------------------------------CLASS SELECTOR--------------------------------------------*/
+ /*.[class] {
+    dhjs:adjsha;
+  //tobb lehet ket képnel pl
+}*/
+.semmi {
+    color:gray;
+}
+
+/*-------------------------------------------ID SELECTOR--------------------------------------------*/
+/* #[ID] {
+    fhsdjfh:hfsh;
+    csak egynél használható
+}
+*/
